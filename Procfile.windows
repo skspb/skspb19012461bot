@@ -1,1 +1,1 @@
-web: python skspbbot.py
+web: python my_bot.py
